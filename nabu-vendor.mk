@@ -1063,7 +1063,6 @@ PRODUCT_PACKAGES += \
     daxService \
     MotoDolbyDax3 \
     MotorolaSettingsProvider \
-    IWlanService \
     TimeService \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
