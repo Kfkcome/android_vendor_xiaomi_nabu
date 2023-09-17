@@ -11,7 +11,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/nabu/proprietary/odm/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_ODM)/etc/media_profiles_V1_0.xml \
     vendor/xiaomi/nabu/proprietary/product/etc/appcompat/compat_framework_overrides.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/appcompat/compat_framework_overrides.xml \
     vendor/xiaomi/nabu/proprietary/product/etc/default-permissions/default-permissions_SmartDisplayPrebuilt.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/default-permissions/default-permissions_SmartDisplayPrebuilt.xml \
+    vendor/xiaomi/nabu/proprietary/product/etc/device_features/nabu.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/device_features/nabu.xml \
     vendor/xiaomi/nabu/proprietary/product/etc/permissions/com.google.assistant.hubui.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.assistant.hubui.xml \
+    vendor/xiaomi/nabu/proprietary/system/lib/vendor.xiaomi.hardware.displayfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.displayfeature@1.0.so \
+    vendor/xiaomi/nabu/proprietary/system/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so \
     vendor/xiaomi/nabu/proprietary/system_ext/bin/dpmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/dpmd \
     vendor/xiaomi/nabu/proprietary/system_ext/bin/wfdservice:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/wfdservice \
     vendor/xiaomi/nabu/proprietary/system_ext/bin/wfdservice64:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/wfdservice64 \
